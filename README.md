@@ -5,7 +5,7 @@ This repository contains Java code I wrote during  my2nd year university courses
 
 - Object-Oriented Programming (OOP)
 - Inheritance & Polymorphism
-- Exception Handling
+- control structure
 - Collections (List, Array)
 - Basic Algorithms and Data Structures
 
